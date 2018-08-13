@@ -1,0 +1,45 @@
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\le\Automated Relay System.exe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\be\Automated Relay System.exe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\le\Automated Relay System.pdb
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\be\Automated Relay System.pdb
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\Automated Relay System.exe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\Automated Relay System.pdb
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\le\Automated Relay System.pe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\le\Automated Relay System.pdbx
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\be\Automated Relay System.pe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\be\Automated Relay System.pdbx
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\LE\Netduino.Foundation.pe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\LE\Netduino.Foundation.RTCs.DS323x.pe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\Netduino.Foundation.dll
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\Netduino.Foundation.RTCs.DS323x.dll
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\Netduino.Foundation.pdb
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\obj\Debug\Automated Relay System.csprojResolveAssemblyReference.cache
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\obj\Debug\TinyCLR_DebugReferences.cache
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\obj\Debug\Automated_Relay_System.Resources.resources
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\obj\Debug\Automated Relay System.csproj.GenerateResource.Cache
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\obj\Debug\Automated_Relay_System.Resources.tinyresources
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\obj\Debug\TinyResGen.cache
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\obj\Debug\be\Automated Relay System.pe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\obj\Debug\be\Automated Relay System.pdbx
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\obj\Debug\le\Automated Relay System.pe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\obj\Debug\le\Automated Relay System.pdbx
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\obj\Debug\Automated Relay System.exe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\obj\Debug\Automated Relay System.pdb
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\BE\Netduino.Foundation.pe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\BE\Netduino.Foundation.RTCs.DS323x.pe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\LE\Netduino.Foundation.pdbx
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\LE\Netduino.Foundation.RTCs.DS323x.pdbx
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\BE\Netduino.Foundation.pdbx
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\BE\Netduino.Foundation.RTCs.DS323x.pdbx
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+c:\users\deniz karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Deniz Karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Deniz Karakay\documents\visual studio 2015\Projects\Automated Relay System\Automated Relay System\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
